@@ -22,31 +22,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,pytorch,flask,django,nodejs,javascript,html,css,nodejs,react,swift&perline=15" />
-  </a>
-</p>
-
-### Tools & Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,aws,azure,gcp,mongodb,kafka,postgres,redis,firebase&perline=15" />
-  </a>
-</p>
-
-### Development Environment
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,redhat,linux,bash,npm,windows,postman,powershell,prometheus,grafana,nginx&perline=15" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -74,20 +49,17 @@ Infrastructure as Code implementations and cloud computing solutions
 ---
 
 ## 💡 What I'm Currently Working On
-
-- 🤖 Exploring AI/ML applications in enterprise systems
+- 📱 Deepening my expertise in Artificial Intelligence at UWA, Western Australia
+- 🤖 Combining executive experience with cutting-edge technical knowledge
 - ☁️ Building cloud-native applications with modern architectures
-- 📱 Developing mobile-first solutions for banking sector
-- 🔒 Implementing secure, scalable backend systems
+- 📱 Developing api-first solutions for banking sector
+- 🔒 Implementing automation in secure, scalable backend systems
 
 ---
 
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erdenezayabatnasan/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/erdenezayabatnasan/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -101,19 +73,35 @@ Infrastructure as Code implementations and cloud computing solutions
 
 ---
 
-## 🎨 Terminal Showcase
 
-<!-- You can create terminal GIFs using https://terminalgif.com/ -->
-<!-- Upload your terminal recording and add it here like this: -->
-<!-- ![Terminal Demo](https://your-terminal-gif-url.gif) -->
+## 🛠️ Tech Stack
 
-**Pro tip:** Visit [terminalgif.com](https://terminalgif.com) to create animated terminal GIFs showing your coding workflow, command-line skills, or project demos!
+### Languages & Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,python,pytorch,flask,django,nodejs,javascript,html,css,nodejs,react,swift&perline=15" />
+  </a>
+</p>
+
+### Tools & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,aws,azure,gcp,mongodb,kafka,postgres,redis,firebase&perline=15" />
+  </a>
+</p>
+
+### Development Environment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,redhat,linux,bash,npm,windows,postman,powershell,prometheus,grafana,nginx&perline=15" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
   
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🌟 "I handle high-level technical challenges with ease, curiosity, and a solution-oriented mind, I communicate with precision and warmth that bridges all cultural and professional gaps" – Zaya
 
 ![Profile Views](https://komarev.com/ghpvc/?username=erdenezaya&color=blueviolet&style=for-the-badge)
 
