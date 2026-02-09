@@ -1,10 +1,10 @@
 <div align="center">
   
-# 👋 Hi, I'm Erdenezaya Batnasan
+# 👋 Hi, I'm Zaya
 
 ### 🚀 Solving real problems with real-world experience from enterprise systems to cutting-edge AI
 
-[![Website](https://img.shields.io/badge/Website-erdenezaya.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erdenezaya.com)
+[![Website](https://img.shields.io/badge/Website-erdenezaya.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepstash.com/u/erdenezaya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdenezayabatnasan/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdenezayanma)
 
@@ -14,8 +14,8 @@
 
 ## 💼 About Me
 
-- 🏢 Working at **Khan Bank LLC** in Mongolia
-- 🤖 Passionate about **AI, Machine Learning, and Enterprise Systems**
+- 🏢 Working at **Khan Bank LLC** in Mongolia, Studying Master of AI at **UWA** in Western Australia
+- 🤖 Passionate about **Cloud Native Architecture, Digital Transformation, AI, Machine Learning, and Enterprise Systems**
 - 🌏 Building solutions that bridge technology and real-world business needs
 - 📚 Constantly learning and exploring new technologies
 - 🎯 Focus on creating scalable, production-ready applications
@@ -27,21 +27,21 @@
 ### Languages & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,react,swift&perline=7" />
+    <img src="https://skillicons.dev/icons?i=r,python,tenserflow,pytorch,flask,django,nodejs,javascript,html,css,nodejs,react,swift&perline=7" />
   </a>
 </p>
 
 ### Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,mongodb,postgres,redis,firebase&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,aws,azure,gcp,mongodb,kafka,postgres,redis,firebase&perline=10" />
   </a>
 </p>
 
 ### Development Environment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,linux,bash&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,redhat,linux,bash,npm,windows,postman,powershell,prometheus,grafana,nginx&perline=4" />
   </a>
 </p>
 
@@ -62,11 +62,11 @@
 
 ## 🎯 Featured Projects
 
-### 🔥 [gc_2_app](https://github.com/erdenezaya/gc_2_app)
-Python application showcasing practical problem-solving
+### ☁️ [Natural Language Inference with Custom Architectures](https://github.com/erdenezaya/nlp-project)
+Design different deep learning models for Natural Language Inference in a science-specific dataset
 
-### 📝 [Personal Blog](https://github.com/erdenezaya/erdenezaya.github.com)
-My personal website and blog where I share insights on technology and development
+### 🔥 [Habit tracker flask](https://github.com/erdenezaya/gc_2_app)
+Python application showcasing practical problem-solving
 
 ### ☁️ [Cloud Computing IaaC](https://github.com/erdenezaya/Cloud-Computing-Iaac)
 Infrastructure as Code implementations and cloud computing solutions
