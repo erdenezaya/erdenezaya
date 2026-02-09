@@ -27,21 +27,21 @@
 ### Languages & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,tenserflow,pytorch,flask,django,nodejs,javascript,html,css,nodejs,react,swift&perline=7" />
+    <img src="https://skillicons.dev/icons?i=r,python,pytorch,flask,django,nodejs,javascript,html,css,nodejs,react,swift&perline=15" />
   </a>
 </p>
 
 ### Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,aws,azure,gcp,mongodb,kafka,postgres,redis,firebase&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,aws,azure,gcp,mongodb,kafka,postgres,redis,firebase&perline=15" />
   </a>
 </p>
 
 ### Development Environment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,redhat,linux,bash,npm,windows,postman,powershell,prometheus,grafana,nginx&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,redhat,linux,bash,npm,windows,postman,powershell,prometheus,grafana,nginx&perline=15" />
   </a>
 </p>
 
