@@ -4,7 +4,7 @@
 
 ### 🚀 Solving real problems with real-world experience from enterprise systems to cutting-edge AI
 
-[![Website](https://img.shields.io/badge/Website-erdenezaya.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepstash.com/u/erdenezaya)
+[![Website](https://img.shields.io/badge/Website-erdenezaya.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://substack.com/@erdenezaya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdenezayabatnasan/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdenezayanma)
 
