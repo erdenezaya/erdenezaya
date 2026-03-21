@@ -52,6 +52,7 @@
 <!-- - [Project Name](https://github.com/erdenezaya/repo) — Short description -->
 
 **🌐 Web & Backend**
+- [Personal Website](https://erdenezaya.github.io/) — Portfolio and personal site hosted on GitHub Pages
 - [Habit Tracker — Flask App](https://github.com/erdenezaya/gc_2_app) — Full-stack habit tracking app with auth, REST API, and progress dashboard
 <!-- - [Project Name](https://github.com/erdenezaya/repo) — Short description -->
 
