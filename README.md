@@ -37,23 +37,23 @@
 
 ## 🎯 Featured Projects
 
-### ☁️ [Natural Language Inference with Custom Architectures](https://github.com/erdenezaya/nlp-project)
-Design different deep learning models for Natural Language Inference in a science-specific dataset
+### 🧠 [Natural Language Inference with Custom Architectures](https://github.com/erdenezaya/nlp-project)
+Designed and benchmarked multiple deep learning architectures (LSTM, BERT-based, custom transformers) for Natural Language Inference on a science-domain dataset — exploring trade-offs between model complexity and accuracy.
 
-### 🔥 [Habit tracker flask](https://github.com/erdenezaya/gc_2_app)
-Python application showcasing practical problem-solving
+### 🌱 [Habit Tracker — Flask Web App](https://github.com/erdenezaya/gc_2_app)
+Full-stack habit tracking application built with Python/Flask, featuring user authentication, progress visualization, and a clean REST API backend.
 
 ### ☁️ [Cloud Computing IaaC](https://github.com/erdenezaya/Cloud-Computing-Iaac)
-Infrastructure as Code implementations and cloud computing solutions
+Infrastructure-as-Code templates and automation scripts for provisioning scalable cloud environments — covering networking, compute, and storage across major cloud providers.
 
 ---
 
 ## 💡 What I'm Currently Working On
-- 📱 Deepening my expertise in Artificial Intelligence at UWA, Western Australia
-- 🤖 Combining executive experience with cutting-edge technical knowledge
-- ☁️ Building cloud-native applications with modern architectures
-- 📱 Developing api-first solutions for banking sector
-- 🔒 Implementing automation in secure, scalable backend systems
+- 🎓 Pursuing a Master of AI at **UWA**, deepening expertise in deep learning and NLP
+- 🏦 Developing **API-first solutions** for the banking sector at Khan Bank LLC
+- ☁️ Architecting **cloud-native systems** with Kubernetes, Kafka, and microservices
+- 🤖 Applying AI/ML to real enterprise problems — bridging executive insight with technical depth
+- 🔒 Automating secure, scalable backend infrastructure and observability pipelines
 
 ---
 
@@ -79,21 +79,21 @@ Infrastructure as Code implementations and cloud computing solutions
 ### Languages & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,pytorch,flask,django,nodejs,javascript,html,css,nodejs,react,swift&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,flask,django,javascript,typescript,react,nodejs,html,css&perline=12" />
   </a>
 </p>
 
-### Tools & Technologies
+### Cloud & Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,aws,azure,gcp,mongodb,kafka,postgres,redis,firebase&perline=15" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,ansible,kafka,nginx,redis,postgres,mongodb,firebase&perline=12" />
   </a>
 </p>
 
-### Development Environment
+### Dev Tools & Environment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,redhat,linux,bash,npm,windows,postman,powershell,prometheus,grafana,nginx&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,prometheus,grafana,powershell,vim&perline=12" />
   </a>
 </p>
 
