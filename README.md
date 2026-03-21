@@ -4,7 +4,7 @@
 
 ### 🚀 Solving real problems with real-world experience — from enterprise systems to cutting-edge AI
 
-[![Website](https://img.shields.io/badge/Website-erdenezaya.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://substack.com/@erdenezaya)
+[![Website](https://img.shields.io/badge/Website-erdenezaya.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erdenezaya.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdenezayabatnasan/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdenezayanma)
 
@@ -36,10 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erdenezaya&theme=tokyonight" alt="erdenezaya's streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erdenezaya&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
-</div>
-
 ---
 
 ## ⚡ Recent Activity
@@ -51,30 +47,17 @@
 
 ## 🗂️ Projects
 
-> Add new projects to this table anytime — it lives right here in the README.
+**🤖 AI & Machine Learning**
+- [NLP — Natural Language Inference](https://github.com/erdenezaya/nlp-project) — Benchmarking transformer & LSTM architectures for NLI on a science dataset
+<!-- - [Project Name](https://github.com/erdenezaya/repo) — Short description -->
 
-### 🤖 AI & Machine Learning
+**🌐 Web & Backend**
+- [Habit Tracker — Flask App](https://github.com/erdenezaya/gc_2_app) — Full-stack habit tracking app with auth, REST API, and progress dashboard
+<!-- - [Project Name](https://github.com/erdenezaya/repo) — Short description -->
 
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| [NLP — Natural Language Inference](https://github.com/erdenezaya/nlp-project) | Benchmarked LSTM, BERT-based & custom transformer architectures on a science-domain NLI dataset | Python · PyTorch · HuggingFace | ✅ Complete |
-
-### 🌐 Web & Backend
-
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| [Habit Tracker — Flask App](https://github.com/erdenezaya/gc_2_app) | Full-stack habit tracking web app with user auth, progress visualization, and REST API | Python · Flask · SQLite | ✅ Complete |
-
-### ☁️ Cloud & Infrastructure
-
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| [Cloud Computing IaaC](https://github.com/erdenezaya/Cloud-Computing-Iaac) | IaC templates for provisioning scalable cloud environments — networking, compute, storage | Terraform · Ansible · AWS/Azure/GCP | ✅ Complete |
-
-<!--
-  ➕ To add a new project, copy a row and fill in the details:
-  | [Project Name](https://github.com/erdenezaya/repo) | Short description | Tech stack | 🚧 In Progress / ✅ Complete |
--->
+**☁️ Cloud & Infrastructure**
+- [Cloud Computing IaaC](https://github.com/erdenezaya/Cloud-Computing-Iaac) — IaC templates for provisioning scalable cloud environments across AWS, Azure, and GCP
+<!-- - [Project Name](https://github.com/erdenezaya/repo) — Short description -->
 
 ---
 
