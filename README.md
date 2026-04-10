@@ -2,7 +2,7 @@
 
 # Erdenezaya Batnasan
 
-**AI Engineer · Cloud Architect · Banking Technology Leader**
+**AI Engineer · Cloud Native Solution Architect · Banking Technology Leader**
 
 [![Website](https://img.shields.io/badge/Website-erdenezaya.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://erdenezaya.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erdenezayabatnasan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdenezayabatnasan/)
