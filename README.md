@@ -51,6 +51,7 @@ Focused on building production-grade systems that bridge executive decision-maki
 
 **Web & Backend**
 - [Personal Website](https://erdenezaya.github.io/) — Portfolio site hosted on GitHub Pages
+- [TED5](https://github.com/erdenezaya/ted5) — Web application project built as part of professional experience
 - [Habit Tracker](https://github.com/erdenezaya/gc_2_app) — Full-stack Flask app with user auth, REST API, and progress tracking
 
 **Cloud & Infrastructure**
