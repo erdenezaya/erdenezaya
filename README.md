@@ -61,10 +61,11 @@ Focused on building production-grade systems that bridge executive decision-maki
 
 ## Currently Working On
 
-- Pursuing a **Master of AI at UWA** — deep learning, NLP, and probabilistic modelling
+- Pursuing a **Master of AI at UWA** — deep learning, NLP, and probabilistic modelling, AI Adaptive systems
 - Building **API-first banking platforms** at Khan Bank LLC
 - Architecting **cloud-native systems** with Kubernetes, Kafka, and microservices
 - Applying reinforcement learning and knowledge graphs to real enterprise problems
+- Developing Bridge Leadership as a public framework, writing on the intersection of AI strategy, enterprise architecture, and executive practice
 
 ---
 
