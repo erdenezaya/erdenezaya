@@ -72,7 +72,7 @@ Focused on building production-grade systems that bridge executive decision-maki
 
 **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,flask,django,javascript,typescript,react,nodejs,html,css&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,r,cs,dotnet,pytorch,tensorflow,flask,django,javascript,typescript,react,nodejs,html,css&perline=14" />
 </p>
 
 **Cloud & Infrastructure**
@@ -84,6 +84,8 @@ Focused on building production-grade systems that bridge executive decision-maki
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,prometheus,grafana,powershell,vim&perline=12" />
 </p>
+
+> Azure Stack · Azure DevOps (TFS)
 
 ---
 
