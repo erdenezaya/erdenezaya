@@ -15,7 +15,7 @@
 
 ## About
 
-Engineer and AI practitioner with hands-on experience spanning enterprise banking systems, cloud infrastructure, and applied advanced technology Cloud-Native/AI/ML/Web3. Currently working at **Khan Bank LLC** in Mongolia while completing a **Master of AI at the University of Western Australia**.
+My background is as a Software Engineer and AI practitioner with hands-on experience. I've been working in the IT field spanning enterprise banking systems, cloud infrastructure, and applied advanced technology, Cloud-Native/AI/ML/Web3. Currently working at **Khan Bank LLC** as Tech Leadership in Mongolia while completing a **Master of AI at the University of Western Australia**.
 
 Focused on building production-grade systems that bridge executive decision-making with technical depth — from API-first banking platforms in the highly regulated industry to deep learning research.
 
