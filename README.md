@@ -29,7 +29,7 @@ Focused on building production-grade systems that bridge executive decision-maki
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erdenezaya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=erdenezaya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -44,6 +44,8 @@ Focused on building production-grade systems that bridge executive decision-maki
 ## Projects
 
 **AI & Machine Learning**
+- [SIGIL](https://github.com/UWA-AI-Club/26W-SIGIL) — UWA AI Club project exploring applied AI agent systems and collaborative research
+- [QwenAgent](https://github.com/erdenezaya/QwenAgent) — AI agent built on the Qwen model for autonomous task execution to resolve incidents
 - [AI/ML Knowledge Graph](https://github.com/erdenezaya/ai-ml-knowledge-graph) — Structured knowledge graph mapping core AI/ML concepts, relationships, and learning pathways
 - [GeoMind](https://github.com/erdenezaya/GeoMind) — Geospatial AI system combining location intelligence with machine learning inference
 - [Algorithmic Trading Bot](https://github.com/erdenezaya/cits4404-trading-bot) — Reinforcement learning agent for automated trading strategy development and backtesting
@@ -51,7 +53,7 @@ Focused on building production-grade systems that bridge executive decision-maki
 
 **Web & Backend**
 - [Personal Website](https://erdenezaya.github.io/) — Portfolio site hosted on GitHub Pages
-- [TED5](https://github.com/erdenezaya/ted5) — Web application project built as part of professional experience
+- [TED5](https://github.com/erdenezaya/ted5) — Health check of legacy system for modernisation that I built as part of professional experience
 - [Habit Tracker](https://github.com/erdenezaya/gc_2_app) — Full-stack Flask app with user auth, REST API, and progress tracking
 
 **Cloud & Infrastructure**
